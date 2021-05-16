@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.org/simkimsia/UtilityBehaviors.png)](https://travis-ci.org/simkimsia/UtilityBehaviors)
+[![Build Status](https://travis-ci.com/github/JeanneBM/PyCalculatorII.png)](https://travis-ci.com/github/JeanneBM/PyCalculatorII)
 [![Coverage Status](https://coveralls.io/repos/github/JeanneBM/PyCalculatorBlack/badge.svg?branch=master)](https://coveralls.io/github/JeanneBM/PyCalculatorBlack?branch=master)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 [![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)](https://www.python.org/downloads/release/python-360/)
