@@ -42,3 +42,9 @@ python3 -m unittest
 ```
 gunicorn --bind 0.0.0.0:5000 wsgi:app
 ```
+
+
+## Black
+```
+black a_file_name.py
+```
